@@ -33,7 +33,7 @@ console.log(animals(3, 2));
 console.log(animals(0,0)); 
 
 
-//concise (краткийб сжатый) v. block body
+//concise (краткий, сжатый) v. block body
 //concise body arrow function
 let apples = x => `There are ${x} apples.`;  // when you have a single argument (ex. x) you can exclude the parentesis and also if you have smth. quick that you want to return  right away you include it in the same line as  arrow without use of return key word and curly braces.
 console.log(apples(10));

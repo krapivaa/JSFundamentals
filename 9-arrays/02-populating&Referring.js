@@ -88,7 +88,8 @@ console.log(arr);
 
 if (arr instanceof Array) {
     let revArr = arr.reverse();
-    revArr.forEach(numbers => console.log(numbers));
+    console.log(revArr);
+    // revArr.forEach(numbers => console.log(numbers));
 }
 
 
